@@ -6,6 +6,8 @@ public class NewBehaviourScript : MonoBehaviour
 {
     [SerializeField]
     private int integer;
+    [SerializeField]
+    private int integer2;
     // Start is called before the first frame update
     void Start()
     {
